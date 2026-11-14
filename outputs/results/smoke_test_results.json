@@ -1,6 +1,6 @@
 {
     "mode": "synthetic_math_smoke_test",
-    "rotation_error_degrees": 0.3045221907278845,
+    "rotation_error_degrees": 0.3045221907326719,
     "translation_error_m": 0.00014888375655780503,
     "ransac_inliers": 27,
     "ransac_total_points": 30,

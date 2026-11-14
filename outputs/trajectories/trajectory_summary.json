@@ -1,0 +1,15 @@
+{
+    "num_frames": 41,
+    "start_position_m": [
+        -0.16970416903495789,
+        0.0035208328627049923,
+        0.6499999165534973
+    ],
+    "end_position_m": [
+        0.12062089145183563,
+        0.003531569615006447,
+        0.6499999165534973
+    ],
+    "total_displacement_m": 0.2903250455856323,
+    "trajectory_type": "synthetic_3d_centroid_baseline"
+}

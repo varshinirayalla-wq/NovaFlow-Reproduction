@@ -1,0 +1,14 @@
+{
+    "experiment": "Synthetic 3D Trajectory Optimization",
+    "num_frames": 41,
+    "trajectory_type": "synthetic_centroid_baseline",
+    "raw_displacement_m": 0.2903250455856323,
+    "optimized_displacement_m": 0.28545920978692624,
+    "endpoint_preserved_displacement_m": 0.29032506068532593,
+    "raw_smoothness": 0.0006165918312035501,
+    "optimized_smoothness": 0.00024138842461497362,
+    "endpoint_preserved_smoothness": 0.00024138842461497557,
+    "smoothness_reduction_percent": 60.851180246128145,
+    "start_position_error_m": 0.0,
+    "end_position_error_m": 0.0
+}

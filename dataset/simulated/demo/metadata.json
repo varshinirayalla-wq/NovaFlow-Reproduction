@@ -1,0 +1,13 @@
+{
+    "scene_id": "synthetic_demo_001",
+    "task": "Move the red circular object to the right",
+    "is_synthetic": true,
+    "camera_intrinsics": {
+        "fx": 600,
+        "fy": 600,
+        "cx": 320.0,
+        "cy": 240.0
+    },
+    "num_frames": 41,
+    "note": "Synthetic software testing scene"
+}
