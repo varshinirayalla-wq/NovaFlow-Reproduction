@@ -1,0 +1,14 @@
+{
+    "mode": "synthetic_math_smoke_test",
+    "rotation_error_degrees": 0.3045221907278845,
+    "translation_error_m": 0.00014888375655780503,
+    "ransac_inliers": 27,
+    "ransac_total_points": 30,
+    "depth_scale": 0.4000000059604645,
+    "calibrated_depth_median": 0.800000011920929,
+    "example_wilson_interval": [
+        0.7111690380734977,
+        0.8666340774409013
+    ],
+    "warning": "This is not a full NovaFlow reproduction."
+}
